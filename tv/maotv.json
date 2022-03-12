@@ -965,9 +965,9 @@
       "url": "Sequence"
     },
     {
-      "name": "无名",
+      "name": "TG解析",
       "type": 1,
-      "url": "https://api.zakkpa.com:8888/analysis/json/?uid=91&my=gjksuvCHIJLRS01268&url="
+      "url": "http://jx.tgzy.cc/?url="
     },
     {
       "name": "蓝光视讯",
